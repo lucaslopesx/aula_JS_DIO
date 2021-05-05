@@ -1,2 +1,2 @@
 var d = new Date()
-alert(d.getMinutes())
+alert(d.getDay())
